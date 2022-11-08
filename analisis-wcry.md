@@ -1,5 +1,7 @@
 ## ANÁLISIS DE WANNACRY
 
+Descargar la imagen forense desde https://drive.google.com/file/d/1VT3CiQIz8mig2b7PJ1oQmfwUEOfFCU6G/view?usp=sharing
+
 **Determinar el profile**
 
 Para determinar el profile (Sistema operativo y su versión) es necesario conocer sobre que profile se realizará la inspección, por ello ejecutar lo siguiente:
